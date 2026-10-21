@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/zero-trust-access-gateway-explainer/
 
+Repository: https://github.com/mizcausevic-dev/zero-trust-access-gateway-explainer
+
 ## What this is
 
 An interactive anatomy plate for Zero-Trust Access Gateway. Play, scrub, or jump the five stages. The same frame always draws the same picture.
